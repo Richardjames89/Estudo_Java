@@ -19,7 +19,7 @@ public class Main {
         boolean validacao = validaExistenciaVetor(vetor, num);
 		
         
-		//Verificar se 7 pertence ao arrayNum
+		
         if (validacao) {
         	System.out.println("O Número pertence ao vetor!");
         }else {
@@ -29,13 +29,9 @@ public class Main {
 	}
 
 	public static boolean validaExistenciaVetor(int[] vetor, int num) {
-		for(int i=0; i<vetor.length;i++) {	
-			//Pergunta se 12 pertence ao vetor
-			if(vetor[i] == num){
-				//System.out.println("O Número pertence ao vetor!");
-				//break;
-				return true;
-            // Se não existir...
+		for(int i=0; i<vetor.length;i++) {				
+			if(vetor[i] == num){				
+				return true;            
             }
 		}
 		
