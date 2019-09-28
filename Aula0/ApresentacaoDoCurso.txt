@@ -1,7 +1,7 @@
 Apresentação do curso
 
 O professor informou que vai ensinar a base de lógica de programação em java, 
-estruturas condicionais, estrutuas de repetição, vetor, matriz,passar exercicios feitos e propostos,
+estruturas sequencionais, estrutuas de repetição, vetor, matriz,passar exercicios feitos e propostos,
 ensinar fazer repetição no papel(super interessante,debugar na mão).
 
 Data = 28/29/2019
