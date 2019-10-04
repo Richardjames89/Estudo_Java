@@ -9,6 +9,7 @@ public class Aula13 {
 		
 		int [][] mat = new int [n][n]; 
 		
+		
 		for(int i=0;i<n;i++) {
 			for(int j=0;j<n;j++) {
 				mat[i][j] = teclado.nextInt();
