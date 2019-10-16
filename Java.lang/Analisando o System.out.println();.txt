@@ -1,0 +1,11 @@
+Analisando o System.out.println();
+
+System:
+ - classe,java-lang,acesso publico(public)
+
+out:
+ - atributo,publico,referencia,acesso static
+
+println():
+ - metodo, publico, não static,sobrecarga, 
+nao joga excecoes do tipo checked
